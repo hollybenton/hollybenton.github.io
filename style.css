@@ -1,0 +1,65 @@
+body {
+	font-family: Georgia, serif;
+	/*background-color: #FFF0E0;*/
+	/*color: #FFF;*/
+}
+
+a:link {
+	text-decoration: none;
+	color: #000;
+}
+a:visited {
+	color: #8D1919;
+}
+
+.header {
+	/*border*/: 1px solid pink;
+	margin: 0 auto;
+	text-align: center;
+	font-size: 80px;
+}
+
+.sidebar {
+	/*border*/: 1px solid gold;
+	margin: 45 0 0 10;
+	text-align: left;
+	width: 30px;
+	float: left;
+	line-height: 25px;
+}
+
+.title {
+	/*border*/: 1px solid red;
+	padding-bottom: 3px;
+	text-align: left;
+	font-weight: bold;
+}
+
+.frame {
+	/*border*/: 1px solid green;
+	margin: 45 auto;
+	width: 350px;
+	text-align: center;
+}
+
+.container {
+	/*border*/: 1px solid orange;
+	margin: -37 0 80 0;
+	text-align: center;
+}
+
+.text {
+	/*border*/: 1px solid blue;
+	display: inline-block;
+	text-align: left;
+	width: 350px;
+}
+
+#about {
+	margin: 45 auto;
+}
+
+#aboutext {
+	width: 500px;
+	text-align: center;
+}
